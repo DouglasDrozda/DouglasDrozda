@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/douglasdrozda/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1634172919~hmac=b170a8d7f7cd151c94d2ab8b616485a1" alt="DouglasDrozda" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/douglasdrozda/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1634173961~hmac=9355593e212283c3d875e5a42da1d78d" alt="DouglasDrozda" height="30" width="30" /></a>
 <a href="https://instagram.com/doouglasdrozda" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1634172993~hmac=3e12abfb7ea6c6cfafef2437a4059dc3" alt="DouglasDrozda" height="30" width="30" /></a>
  <a href="https://api.whatsapp.com/send?phone=13997715719" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1634173226~hmac=8083e1096cf10eb1868d594c8dd6fae3" alt="DouglasDrozda" height="30" width="30" /></a>
 </p>
