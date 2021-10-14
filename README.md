@@ -1,5 +1,9 @@
 # Hi 🤙, i'm Douglas Drozda, welcome to my profile
 
+<p align="center">
+Front-end developer
+</p>
+
 - 👨‍💻 I currently study Web Development at Trybe
 - 💻 HTML, CSS, JavaScript, FrameWorks, React...
 - ⚡ In my spare time I practice sports🚴‍♂🏃, I like to watch movies, series, travel and code.
