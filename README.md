@@ -5,7 +5,7 @@
 - 👨‍💻 I currently study Web Development at Trybe
 - 💻 HTML, CSS, JavaScript, FrameWorks, React...
 - ⚡ In my spare time I practice sports🚴‍♂🏃, I like to watch movies, series, travel and code.
-- 📫 How to reach me **lowdouglas9712@gmail.com**
+- 📫 How to reach me **db.drozda@gmail.com**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
