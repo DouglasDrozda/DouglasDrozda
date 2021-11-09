@@ -7,15 +7,28 @@
 - ⚡ In my spare time I practice sports🚴‍♂🏃, I like to watch movies, series, travel and code.
 - 📫 How to reach me **db.drozda@gmail.com**
 
+## Main Technologies
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+##
+
 <p align="center">
-<a href="https://www.linkedin.com/in/douglasdrozda/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1634173961~hmac=9355593e212283c3d875e5a42da1d78d" alt="DouglasDrozda" height="30" width="30" /></a>
-<a href="https://instagram.com/doouglasdrozda" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1634172993~hmac=3e12abfb7ea6c6cfafef2437a4059dc3" alt="DouglasDrozda" height="30" width="30" /></a>
- <a href="https://api.whatsapp.com/send?phone=13997715719" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1634173226~hmac=8083e1096cf10eb1868d594c8dd6fae3" alt="DouglasDrozda" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/douglasdrozda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/doouglasdrozda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="DouglasDrozda"></a>
+<a href = "mailto:db.drozda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=13997715719" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/engenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasDrozda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasDrozda&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
