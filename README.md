@@ -1,6 +1,5 @@
-# Hi 🤙, i'm Douglas Drozda, welcome to my profile
-
-<h3 align="center">Front-end Developer</h3>
+<img class="profile-background-image__image relative
+            full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media.licdn.com/dms/image/D4D16AQH6hw32VG8AJQ/profile-displaybackgroundimage-shrink_350_1400/0/1675794600346?e=1681344000&amp;v=beta&amp;t=iTeS3USAi0cSJ6T40mdE0lvREaltHbnyShGf51DGpJ8">
 
 - 👨‍💻 I currently study Web Development at Trybe
 - 💻 HTML, CSS, JavaScript, FrameWorks, React...
