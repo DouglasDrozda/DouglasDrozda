@@ -1,10 +1,4 @@
-<img class="profile-background-image__image relative
-            full-width full-height" id="profile-background-image-target-image" alt="Imagem de fundo" src="https://media.licdn.com/dms/image/D4D16AQH6hw32VG8AJQ/profile-displaybackgroundimage-shrink_350_1400/0/1675794600346?e=1681344000&amp;v=beta&amp;t=iTeS3USAi0cSJ6T40mdE0lvREaltHbnyShGf51DGpJ8">
-
-- 👨‍💻 I currently study Web Development at Trybe
-- 💻 HTML, CSS, JavaScript, FrameWorks, React...
-- ⚡ In my spare time I practice sports🚴‍♂🏃, I like to watch movies, series, travel and code.
-- 📫 How to reach me **db.drozda@gmail.com**
+- 👨‍💻 Front-end developer at SHIFT INC
 
 ## Main Technologies
 <p align="left">
